@@ -1,5 +1,5 @@
 //Nama          : Dila Prastiwi
-//No Absen/NIM  : 194172176 (10)
+//NIM/N0        : 194172176 (10)
 //Kelas         : TI-3B
 //Test Case     : Mengisi nama depan dan belakang dengan huruf
 /// <reference types="cypress"/>
