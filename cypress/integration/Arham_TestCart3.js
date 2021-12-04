@@ -39,7 +39,7 @@ describe('Setelah menambah belajaan lalu logout ', () => {
         cy.contains('Login').click()
         //klik tombol cart
         cy.get('.shopping_cart_link').click()
-
+        cy.contains('Your Cart').should('be.visible')
         
     })
 })
